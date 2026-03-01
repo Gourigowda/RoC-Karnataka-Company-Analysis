@@ -1,4 +1,3 @@
-# RoC-Karnataka-Company-Analysis
 # RoC-Karnataka-Company-Distribution.
 
 ## 🚀 Project Overview
